@@ -1,0 +1,1 @@
+whoami /groups | Export-Csv -Path .\my-ad-groups.csv -NoTypeInformation
